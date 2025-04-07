@@ -15,7 +15,7 @@ To use this package archive, add the following to your Emacs configuration:
 Or on Cask:
 
 ```elisp
-(source "https://github.com/lieutar/looper-elpa")
+(source "looper-elpa" "https://github.com/lieutar/looper-elpa")
 ```
 
 ## Contribution Policy
