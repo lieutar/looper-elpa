@@ -13,6 +13,7 @@
 /html*/recipes.json
 /html*/updates.rss
 /packages*/
+!/packages/
 /process_log.pid
 /recipes/.dirstamp
 /sandbox

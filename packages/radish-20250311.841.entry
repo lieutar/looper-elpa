@@ -1,0 +1,7 @@
+(radish .
+	[(20250311 841)
+	 nil "Yet another DI Container for Emacs lisp" tar
+	 ((:url . "https://github.com/lieutar/radish.el")
+	  (:commit . "5b5d515725ee953366280f4e9986adbae0f9606a")
+	  (:revdesc . "5b5d515725ee")
+	  (:keywords "development" "programming" "elisp"))])
