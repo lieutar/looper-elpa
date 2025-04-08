@@ -1,3 +1,4 @@
 (1
+ (elconc . [(20250408 545) nil "Emacs lisp module bundler" tar ((:url . "https://github.com/lieutar/elconc.el") (:commit . "3450e9eb1c57b163d8c7fb19cea0820f72b6b9cc") (:revdesc . "3450e9eb1c57") (:keywords "programming" "development" "emacs-lisp"))])
  (radish . [(20250311 841) nil "Yet another DI Container for Emacs lisp" tar ((:url . "https://github.com/lieutar/radish.el") (:commit . "5b5d515725ee953366280f4e9986adbae0f9606a") (:revdesc . "5b5d515725ee") (:keywords "development" "programming" "elisp"))])
  (slash-tmp . [(20250408 505) ((emacs (29 3)) (radish (0))) "Utilities for temporary files and directories" tar ((:url . "https://github.com/lieutar/slash-tmp.el") (:commit . "f1b8e81424485cc155ce6584a4ef7c4e167af7b9") (:revdesc . "f1b8e8142448") (:keywords "programming" "elisp" "development"))]))
