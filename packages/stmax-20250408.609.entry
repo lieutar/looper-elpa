@@ -1,0 +1,17 @@
+(stmax .
+       [(20250408 609)
+	((emacs
+	  (29 3))
+	 (f
+	  (0))
+	 (s
+	  (0))
+	 (dash
+	  (0))
+	 (ppp
+	  (0)))
+	"STatic MAcro eXpander" tar
+	((:url . "https://github.com/lieutar/stmax.el")
+	 (:commit . "c52fa3b7b84e4844c7df6e998b38ec6ec4e321b0")
+	 (:revdesc . "c52fa3b7b84e")
+	 (:keywords "programming" "development" "emacs-lisp"))])

@@ -1,0 +1,18 @@
+Package: prinfo
+Fetcher: github
+Source:  https://github.com/lieutar/prinfo.el
+
+Cloning https://github.com/lieutar/prinfo.el to /home/lieutar/work/emacs/looper-elpa/working/prinfo/
+Checking out 44455dfdebf215cbd0b5477843b63000c3ce2855
+Copying files (->) and directories (=>)
+  from /home/lieutar/work/emacs/looper-elpa/working/prinfo/
+  to /tmp/prinfoeLON5F/prinfo-20250408.604
+    prinfo.el -> prinfo.el
+Created prinfo-20250408.604.tar containing:
+  prinfo-20250408.604/
+  prinfo-20250408.604/prinfo-pkg.el
+  prinfo-20250408.604/prinfo.el
+ ✓ Success:
+  2025-04-08T06:42:32+0000  prinfo-20250408.604.entry
+  2025-04-08T06:42:32+0000  prinfo-20250408.604.tar
+Built prinfo in 15.960s, finished at 2025-04-08T06:42:33+0000

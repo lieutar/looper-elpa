@@ -1,0 +1,17 @@
+(tinplate .
+	  [(20250408 617)
+	   ((emacs
+	     (29 3))
+	    (dash
+	     (0))
+	    (f
+	     (0))
+	    (s
+	     (0))
+	    (ppp
+	     (0)))
+	   "Tiny Template for Emacs Lisp" tar
+	   ((:url . "https://github.com/lieutar/tinplate.el")
+	    (:commit . "3df1a46054fb1dd2b48d184e81270d0a5a83f3bd")
+	    (:revdesc . "3df1a46054fb")
+	    (:keywords "template" "emacs-lisp" "programming" "development"))])

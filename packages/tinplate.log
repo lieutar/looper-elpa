@@ -1,0 +1,18 @@
+Package: tinplate
+Fetcher: github
+Source:  https://github.com/lieutar/tinplate.el
+
+Cloning https://github.com/lieutar/tinplate.el to /home/lieutar/work/emacs/looper-elpa/working/tinplate/
+Checking out 3df1a46054fb1dd2b48d184e81270d0a5a83f3bd
+Copying files (->) and directories (=>)
+  from /home/lieutar/work/emacs/looper-elpa/working/tinplate/
+  to /tmp/tinplatewPcVJ4/tinplate-20250408.617
+    tinplate.el -> tinplate.el
+Created tinplate-20250408.617.tar containing:
+  tinplate-20250408.617/
+  tinplate-20250408.617/tinplate-pkg.el
+  tinplate-20250408.617/tinplate.el
+ ✓ Success:
+  2025-04-08T06:44:07+0000  tinplate-20250408.617.entry
+  2025-04-08T06:44:07+0000  tinplate-20250408.617.tar
+Built tinplate in 15.910s, finished at 2025-04-08T06:44:07+0000
