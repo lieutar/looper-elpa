@@ -9,13 +9,14 @@ To use this package archive, add the following to your Emacs configuration:
 ```elisp
 (require 'package)
 (add-to-list 'package-archives
-  '("looper" . "https://github.com/lieutar/looper-elpa") t)
+  '("looper" . "https://raw.githubusercontent.com/lieutar/looper-elpa/refs/heads/looper/packages/archive-contents")
+ t)
 (package-initialize)
 ```
 Or on Cask:
 
 ```elisp
-(source "looper-elpa" "https://github.com/lieutar/looper-elpa")
+(source "looper" "https://raw.githubusercontent.com/lieutar/looper-elpa/refs/heads/looper/packages/archive-contents")
 ```
 
 ## Contribution Policy
