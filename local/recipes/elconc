@@ -1,0 +1,1 @@
+(elconc :fetcher github :repo "lieutar/elconc.el" )

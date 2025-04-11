@@ -5,7 +5,7 @@
 	     (radish
 	      (0)))
 	    "Utilities for temporary files and directories" tar
-	    ((:url . "https://github.com/lieutar/slash-tmp.el")
-	     (:commit . "f1b8e81424485cc155ce6584a4ef7c4e167af7b9")
+	    ((:commit . "f1b8e81424485cc155ce6584a4ef7c4e167af7b9")
 	     (:revdesc . "f1b8e8142448")
-	     (:keywords "programming" "elisp" "development"))])
+	     (:keywords "programming" "elisp" "development")
+	     (:url . "https://github.com/lieutar/slash-tmp.el"))])

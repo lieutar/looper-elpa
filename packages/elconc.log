@@ -1,18 +1,18 @@
 Package: elconc
-Fetcher: github
-Source:  https://github.com/lieutar/elconc.el
+Fetcher: git
+Source:  file:///home/lieutar/work/emacs/elconc.el
 
 Updating /home/lieutar/work/emacs/looper-elpa/working/elconc/
 Checking out 3450e9eb1c57b163d8c7fb19cea0820f72b6b9cc
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/elconc/
-  to /tmp/elconcLlI7uC/elconc-20250408.545
+  to /tmp/elconcQgnAB9/elconc-20250408.545
     elconc.el -> elconc.el
 Created elconc-20250408.545.tar containing:
   elconc-20250408.545/
   elconc-20250408.545/elconc-pkg.el
   elconc-20250408.545/elconc.el
  ✓ Success:
-  2025-04-08T06:42:16+0000  elconc-20250408.545.entry
-  2025-04-08T06:42:16+0000  elconc-20250408.545.tar
-Built elconc in 31.196s, finished at 2025-04-08T06:42:16+0000
+  2025-04-11T09:05:02+0000  elconc-20250408.545.entry
+  2025-04-11T09:05:02+0000  elconc-20250408.545.tar
+Built elconc in 0.081s, finished at 2025-04-11T09:05:02+0000

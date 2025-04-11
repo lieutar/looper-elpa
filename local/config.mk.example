@@ -1,0 +1,2 @@
+# Directory to place package repositories
+ELDEV_HUB := $(HOME)/work/emacs

@@ -1,7 +1,74 @@
 (1
- (elconc . [(20250408 545) nil "Emacs lisp module bundler" tar ((:url . "https://github.com/lieutar/elconc.el") (:commit . "3450e9eb1c57b163d8c7fb19cea0820f72b6b9cc") (:revdesc . "3450e9eb1c57") (:keywords "programming" "development" "emacs-lisp"))])
- (prinfo . [(20250408 604) ((emacs (29 3)) (dash (0)) (s (0)) (f (0))) "Get information from repositories" tar ((:url . "https://github.com/lieutar/prinfo.el") (:commit . "44455dfdebf215cbd0b5477843b63000c3ce2855") (:revdesc . "44455dfdebf2"))])
- (radish . [(20250311 841) nil "Yet another DI Container for Emacs lisp" tar ((:url . "https://github.com/lieutar/radish.el") (:commit . "5b5d515725ee953366280f4e9986adbae0f9606a") (:revdesc . "5b5d515725ee") (:keywords "development" "programming" "elisp"))])
- (slash-tmp . [(20250408 505) ((emacs (29 3)) (radish (0))) "Utilities for temporary files and directories" tar ((:url . "https://github.com/lieutar/slash-tmp.el") (:commit . "f1b8e81424485cc155ce6584a4ef7c4e167af7b9") (:revdesc . "f1b8e8142448") (:keywords "programming" "elisp" "development"))])
- (stmax . [(20250408 609) ((emacs (29 3)) (f (0)) (s (0)) (dash (0)) (ppp (0))) "STatic MAcro eXpander" tar ((:url . "https://github.com/lieutar/stmax.el") (:commit . "c52fa3b7b84e4844c7df6e998b38ec6ec4e321b0") (:revdesc . "c52fa3b7b84e") (:keywords "programming" "development" "emacs-lisp"))])
- (tinplate . [(20250408 617) ((emacs (29 3)) (dash (0)) (f (0)) (s (0)) (ppp (0))) "Tiny Template for Emacs Lisp" tar ((:url . "https://github.com/lieutar/tinplate.el") (:commit . "3df1a46054fb1dd2b48d184e81270d0a5a83f3bd") (:revdesc . "3df1a46054fb") (:keywords "template" "emacs-lisp" "programming" "development"))]))
+ (elconc .
+	 [(20250408 545)
+	  nil "Emacs lisp module bundler" tar
+	  ((:commit . "3450e9eb1c57b163d8c7fb19cea0820f72b6b9cc")
+	   (:revdesc . "3450e9eb1c57")
+	   (:keywords "programming" "development" "emacs-lisp")
+	   (:url . "https://github.com/lieutar/elconc.el"))])
+ (prinfo .
+	 [(20250410 1341)
+	  ((emacs
+	    (29 3))
+	   (dash
+	    (0))
+	   (s
+	    (0))
+	   (f
+	    (0)))
+	  "Get information from repositories" tar
+	  ((:commit . "568d8bf38ec29350c96134cd603e2796b62c8cd3")
+	   (:revdesc . "568d8bf38ec2")
+	   (:url . "https://github.com/lieutar/prinfo.el"))])
+ (radish .
+	 [(20250311 841)
+	  nil "Yet another DI Container for Emacs lisp" tar
+	  ((:commit . "5b5d515725ee953366280f4e9986adbae0f9606a")
+	   (:revdesc . "5b5d515725ee")
+	   (:keywords "development" "programming" "elisp")
+	   (:url . "https://github.com/lieutar/radish.el"))])
+ (slash-tmp .
+	    [(20250408 505)
+	     ((emacs
+	       (29 3))
+	      (radish
+	       (0)))
+	     "Utilities for temporary files and directories" tar
+	     ((:commit . "f1b8e81424485cc155ce6584a4ef7c4e167af7b9")
+	      (:revdesc . "f1b8e8142448")
+	      (:keywords "programming" "elisp" "development")
+	      (:url . "https://github.com/lieutar/slash-tmp.el"))])
+ (stmax .
+	[(20250408 609)
+	 ((emacs
+	   (29 3))
+	  (f
+	   (0))
+	  (s
+	   (0))
+	  (dash
+	   (0))
+	  (ppp
+	   (0)))
+	 "STatic MAcro eXpander" tar
+	 ((:commit . "c52fa3b7b84e4844c7df6e998b38ec6ec4e321b0")
+	  (:revdesc . "c52fa3b7b84e")
+	  (:keywords "programming" "development" "emacs-lisp")
+	  (:url . "https://github.com/lieutar/stmax.el"))])
+ (tinplate .
+	   [(20250408 617)
+	    ((emacs
+	      (29 3))
+	     (dash
+	      (0))
+	     (f
+	      (0))
+	     (s
+	      (0))
+	     (ppp
+	      (0)))
+	    "Tiny Template for Emacs Lisp" tar
+	    ((:commit . "3df1a46054fb1dd2b48d184e81270d0a5a83f3bd")
+	     (:revdesc . "3df1a46054fb")
+	     (:keywords "template" "emacs-lisp" "programming" "development")
+	     (:url . "https://github.com/lieutar/tinplate.el"))]))

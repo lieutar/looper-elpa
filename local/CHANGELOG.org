@@ -1,0 +1,25 @@
+* Changelog
+
+** looper-dev/local-build
+
+- from :: 2025-04-11
+- Done :: 
+
+*** DONE Add: local/CHANGELOG.org
+
+*** DONE Add: local/Makefile
+
+*** DONE Add: local/config.mk
+But don't add into the repository, cause it contains information of 
+local environment.
+
+*** DONE Add: local/.emacs.d/init.el
+
+*** DONE Add: local/lisp/update-package-info-to-public.el
+
+*** DONE Add: local/lisp/update-recipes-as-local.el
+
+
+** Start the custom melpa
+
+- Done :: 2025-04-08

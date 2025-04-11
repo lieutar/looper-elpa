@@ -1,0 +1,14 @@
+(prinfo .
+	[(20250410 1341)
+	 ((emacs
+	   (29 3))
+	  (dash
+	   (0))
+	  (s
+	   (0))
+	  (f
+	   (0)))
+	 "Get information from repositories" tar
+	 ((:commit . "568d8bf38ec29350c96134cd603e2796b62c8cd3")
+	  (:revdesc . "568d8bf38ec2")
+	  (:url . "https://github.com/lieutar/prinfo.el"))])

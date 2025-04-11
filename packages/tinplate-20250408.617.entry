@@ -11,7 +11,7 @@
 	    (ppp
 	     (0)))
 	   "Tiny Template for Emacs Lisp" tar
-	   ((:url . "https://github.com/lieutar/tinplate.el")
-	    (:commit . "3df1a46054fb1dd2b48d184e81270d0a5a83f3bd")
+	   ((:commit . "3df1a46054fb1dd2b48d184e81270d0a5a83f3bd")
 	    (:revdesc . "3df1a46054fb")
-	    (:keywords "template" "emacs-lisp" "programming" "development"))])
+	    (:keywords "template" "emacs-lisp" "programming" "development")
+	    (:url . "https://github.com/lieutar/tinplate.el"))])

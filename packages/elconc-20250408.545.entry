@@ -1,7 +1,7 @@
 (elconc .
 	[(20250408 545)
 	 nil "Emacs lisp module bundler" tar
-	 ((:url . "https://github.com/lieutar/elconc.el")
-	  (:commit . "3450e9eb1c57b163d8c7fb19cea0820f72b6b9cc")
+	 ((:commit . "3450e9eb1c57b163d8c7fb19cea0820f72b6b9cc")
 	  (:revdesc . "3450e9eb1c57")
-	  (:keywords "programming" "development" "emacs-lisp"))])
+	  (:keywords "programming" "development" "emacs-lisp")
+	  (:url . "https://github.com/lieutar/elconc.el"))])
