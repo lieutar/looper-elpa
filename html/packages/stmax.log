@@ -1,0 +1,18 @@
+Package: stmax
+Fetcher: git
+Source:  file:///home/lieutar/work/emacs/packages/stmax.el
+
+Updating /home/lieutar/work/emacs/looper-elpa/working/stmax/
+Checking out c52fa3b7b84e4844c7df6e998b38ec6ec4e321b0
+Copying files (->) and directories (=>)
+  from /home/lieutar/work/emacs/looper-elpa/working/stmax/
+  to /tmp/stmaxadlbep/stmax-20250408.609
+    stmax.el -> stmax.el
+Created stmax-20250408.609.tar containing:
+  stmax-20250408.609/
+  stmax-20250408.609/stmax-pkg.el
+  stmax-20250408.609/stmax.el
+ ✓ Success:
+  2025-04-12T08:59:18+0000  stmax-20250408.609.entry
+  2025-04-12T08:59:18+0000  stmax-20250408.609.tar
+Built stmax in 0.256s, finished at 2025-04-12T08:59:18+0000

@@ -1,0 +1,19 @@
+Package: radish
+Fetcher: git
+Source:  file:///home/lieutar/work/emacs/packages/radish.el
+
+Updating /home/lieutar/work/emacs/looper-elpa/working/radish/
+Checking out 5b5d515725ee953366280f4e9986adbae0f9606a
+Warning: radish :files spec is equivalent to the default
+Copying files (->) and directories (=>)
+  from /home/lieutar/work/emacs/looper-elpa/working/radish/
+  to /tmp/radish6JgfLK/radish-20250311.841
+    radish.el -> radish.el
+Created radish-20250311.841.tar containing:
+  radish-20250311.841/
+  radish-20250311.841/radish-pkg.el
+  radish-20250311.841/radish.el
+ ✓ Success:
+  2025-04-12T08:59:17+0000  radish-20250311.841.entry
+  2025-04-12T08:59:17+0000  radish-20250311.841.tar
+Built radish in 0.190s, finished at 2025-04-12T08:59:17+0000
