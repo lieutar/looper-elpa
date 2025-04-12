@@ -1,9 +1,19 @@
 * Changelog
 
+** looper-dev/pages
+
+- from :: 2025-04-12
+- Done ::
+
+*** DONE Move: local/CHANGELOG.org tol CHANGELOG.org
+*** TODO Add: .github/actions/deploy-pages.yml
+
+
+
 ** looper-dev/local-build
 
 - from :: 2025-04-11
-- Done :: 
+- Done :: 2025-04-11
 
 *** DONE Add: local/CHANGELOG.org
 
