@@ -1,5 +1,7 @@
 name: deploy-pages
-on: {  push: { branches: [ looper ] } }
+on:
+  push: { branches: [ looper ] }
+  workflow_dispatch:  ~
 permissions:
   contents: read
   pages: write
