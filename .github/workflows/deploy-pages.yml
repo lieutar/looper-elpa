@@ -1,8 +1,8 @@
 name: deploy-pages
-on:
-  push:
-    branches: [ looper ]
-
+on: {  push: { branches: [ looper ] } }
+permissions:
+  contents: read
+  pages: write
 jobs:
   deploy:
     runs-on: ubuntu-24.04
