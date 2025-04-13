@@ -10,11 +10,7 @@ jobs:
   deploy:
     runs-on: ubuntu-24.04
     steps:
-    - uses: actions/checkout@v3
-      with:
-        fetch-depth: 2
-    - name: Deploy to Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./packages
+      - uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./packages
+      - uses: actions/deploy-pages@v1      
