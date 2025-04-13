@@ -3,9 +3,10 @@ on:
   push: { branches: [ looper ] }
   workflow_dispatch:  ~
 permissions:
-  contents: write
-  pages: write
+  contents:    write
+  pages:       write
   deployments: write
+  id-token:    write
 jobs:
   deploy:
     runs-on: ubuntu-24.04
