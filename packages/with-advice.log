@@ -2,17 +2,17 @@ Package: with-advice
 Fetcher: git
 Source:  file:///home/lieutar/work/emacs/packages/with-advice.el
 
-Cloning file:///home/lieutar/work/emacs/packages/with-advice.el to /home/lieutar/work/emacs/looper-elpa/working/with-advice/
+Updating /home/lieutar/work/emacs/looper-elpa/working/with-advice/
 Checking out f15af575f75d8afaae08c7aec50e9917c23f9756
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/with-advice/
-  to /tmp/with-advicetxU5Fw/with-advice-20250416.2202
+  to /tmp/with-adviceAFQzNN/with-advice-20250416.2202
     with-advice.el -> with-advice.el
 Created with-advice-20250416.2202.tar containing:
   with-advice-20250416.2202/
   with-advice-20250416.2202/with-advice-pkg.el
   with-advice-20250416.2202/with-advice.el
  ✓ Success:
-  2025-04-17T01:55:31+0000  with-advice-20250416.2202.entry
-  2025-04-17T01:55:31+0000  with-advice-20250416.2202.tar
-Built with-advice in 0.230s, finished at 2025-04-17T01:55:31+0000
+  2025-04-17T09:14:22+0000  with-advice-20250416.2202.entry
+  2025-04-17T09:14:22+0000  with-advice-20250416.2202.tar
+Built with-advice in 0.055s, finished at 2025-04-17T09:14:22+0000
