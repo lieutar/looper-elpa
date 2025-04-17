@@ -3,5 +3,6 @@
   (radish :url "https://github.com/lieutar/radish.el")
   (slash-tmp :url "https://github.com/lieutar/slash-tmp.el")
   (stmax :url "https://github.com/lieutar/stmax.el")
-  (tinplate :url "https://github.com/lieutar/tinplate.el"))
+  (tinplate :url "https://github.com/lieutar/tinplate.el")
+  (with-advice :url "https://github.com/lieutar/with-advice.el"))
  :version 1 :default-vc Git)

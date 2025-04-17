@@ -71,4 +71,16 @@
 	    ((:commit . "3df1a46054fb1dd2b48d184e81270d0a5a83f3bd")
 	     (:revdesc . "3df1a46054fb")
 	     (:keywords "template" "emacs-lisp" "programming" "development")
-	     (:url . "https://github.com/lieutar/tinplate.el"))]))
+	     (:url . "https://github.com/lieutar/tinplate.el"))])
+ (with-advice .
+	      [(20250416 2202)
+	       nil "Form with temporary advicings" tar
+	       ((:commit . "f15af575f75d8afaae08c7aec50e9917c23f9756")
+		(:revdesc . "f15af575f75d")
+		(:keywords "test" "lisp")
+		(:authors
+		 ("lieutar" . "lieutar@gmail.com"))
+		(:maintainers
+		 ("lieutar" . "lieutar@gmail.com"))
+		(:maintainer "lieutar" . "lieutar@gmail.com")
+		(:url . "https://github.com/lieutar/with-advice.el"))]))
