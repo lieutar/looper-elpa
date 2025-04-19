@@ -27,6 +27,25 @@
 	   (:revdesc . "5b5d515725ee")
 	   (:keywords "development" "programming" "elisp")
 	   (:url . "https://github.com/lieutar/radish.el"))])
+ (sexpar .
+	 [(20250419 409)
+	  ((emacs
+	    (29 3))
+	   (f
+	    (0))
+	   (s
+	    (0))
+	   (dash
+	    (0)))
+	  "S-expression file system archiver" tar
+	  ((:commit . "c8eaf3fee3be0b869dea5e799a1ec1c418b60f10")
+	   (:revdesc . "c8eaf3fee3be")
+	   (:authors
+	    ("lieutar" . "lieutar@gmail.com"))
+	   (:maintainers
+	    ("lieutar" . "lieutar@gmail.com"))
+	   (:maintainer "lieutar" . "lieutar@gmail.com")
+	   (:url . "https://github.com/lieutar/sexpar.el"))])
  (slash-tmp .
 	    [(20250408 505)
 	     ((emacs

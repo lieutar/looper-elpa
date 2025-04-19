@@ -6,15 +6,13 @@ Updating /home/lieutar/work/emacs/looper-elpa/working/elconc/
 Checking out d853d4b5769c836f86441da705f4583c58d8ce9b
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/elconc/
-  to /tmp/elconcdGMPoF/elconc-20250417.1324
+  to /tmp/elconcMimGH8/elconc-20250417.1324
     elconc.el -> elconc.el
 Created elconc-20250417.1324.tar containing:
   elconc-20250417.1324/
   elconc-20250417.1324/elconc-pkg.el
   elconc-20250417.1324/elconc.el
  ✓ Success:
-  2025-04-17T13:25:59+0000  elconc-20250417.1324.entry
-  2025-04-17T13:25:59+0000  elconc-20250417.1324.tar
-  2025-04-17T09:14:23+0000  elconc-20250417.913.entry
-  2025-04-17T09:14:21+0000  elconc-20250417.913.tar
-Built elconc in 0.090s, finished at 2025-04-17T13:25:59+0000
+  2025-04-19T05:12:22+0000  elconc-20250417.1324.entry
+  2025-04-19T05:12:22+0000  elconc-20250417.1324.tar
+Built elconc in 0.471s, finished at 2025-04-19T05:12:22+0000
