@@ -1,4 +1,5 @@
 (((elconc :url "https://github.com/lieutar/elconc.el")
+  (lelde :url "https://github.com/lieutar/lelde.el")
   (prinfo :url "https://github.com/lieutar/prinfo.el")
   (radish :url "https://github.com/lieutar/radish.el")
   (sexpar :url "https://github.com/lieutar/sexpar.el")

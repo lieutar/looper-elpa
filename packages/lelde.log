@@ -1,0 +1,46 @@
+Package: lelde
+Fetcher: git
+Source:  file:///home/lieutar/work/emacs/packages/lelde.el
+
+Updating /home/lieutar/work/emacs/looper-elpa/working/lelde/
+Checking out 4deadfe090b4eee135936c22343b2450b8d291e3
+Copying files (->) and directories (=>)
+  from /home/lieutar/work/emacs/looper-elpa/working/lelde/
+  to /tmp/leldefbpbsw/lelde-20250424.914
+    lelde.el -> lelde.el
+    rsc => rsc
+Created lelde-20250424.914.tar containing:
+  lelde-20250424.914/
+  lelde-20250424.914/lelde-pkg.el
+  lelde-20250424.914/lelde.el
+  lelde-20250424.914/rsc/
+  lelde-20250424.914/rsc/bootstrap/
+  lelde-20250424.914/rsc/bootstrap/init.sh
+  lelde-20250424.914/rsc/common/
+  lelde-20250424.914/rsc/common/index-header.el
+  lelde-20250424.914/rsc/template/
+  lelde-20250424.914/rsc/template/@@.gitignore
+  lelde-20250424.914/rsc/template/@recipe-dir@/
+  lelde-20250424.914/rsc/template/@recipe-dir@/@index@
+  lelde-20250424.914/rsc/template/@scripts-dir@/
+  lelde-20250424.914/rsc/template/@scripts-dir@/lcask
+  lelde-20250424.914/rsc/template/@scripts-dir@/test
+  lelde-20250424.914/rsc/template/@scripts-dir@/truncate
+  lelde-20250424.914/rsc/template/@src-dir@/
+  lelde-20250424.914/rsc/template/@src-dir@/@index@.src.el
+  lelde-20250424.914/rsc/template/@src-dir@/@index@/
+  lelde-20250424.914/rsc/template/@src-dir@/@index@/META.el
+  lelde-20250424.914/rsc/template/@src-dir@/@index@/core.el
+  lelde-20250424.914/rsc/template/@src-dir@/README.md
+  lelde-20250424.914/rsc/template/@test-scripts-dir@/
+  lelde-20250424.914/rsc/template/@test-scripts-dir@/core.unit.el
+  lelde-20250424.914/rsc/template/@test-scripts-dir@/integration-lint.test.el
+  lelde-20250424.914/rsc/template/Cask
+  lelde-20250424.914/rsc/template/Cask.local@@
+  lelde-20250424.914/rsc/template/Lelde
+  lelde-20250424.914/rsc/template/Makefile
+  lelde-20250424.914/rsc/template/custom.mk
+ ✓ Success:
+  2025-04-24T12:46:12+0000  lelde-20250424.914.entry
+  2025-04-24T12:46:12+0000  lelde-20250424.914.tar
+Built lelde in 0.072s, finished at 2025-04-24T12:46:12+0000

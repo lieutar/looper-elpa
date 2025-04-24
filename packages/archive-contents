@@ -6,6 +6,18 @@
 	   (:revdesc . "d853d4b5769c")
 	   (:keywords "programming" "development" "emacs-lisp")
 	   (:url . "https://github.com/lieutar/elconc.el"))])
+ (lelde .
+	[(20250424 914)
+	 nil "Nil" tar
+	 ((:url . "https://github.com/lieutar/lelde.el")
+	  (:commit . "4deadfe090b4eee135936c22343b2450b8d291e3")
+	  (:revdesc . "4deadfe090b4")
+	  (:keywords "lisp" "programming" "develop")
+	  (:authors
+	   ("lieutar" . "lieutar@gmail.com"))
+	  (:maintainers
+	   ("lieutar" . "lieutar@gmail.com"))
+	  (:maintainer "lieutar" . "lieutar@gmail.com"))])
  (prinfo .
 	 [(20250410 1341)
 	  ((emacs
