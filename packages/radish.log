@@ -7,13 +7,13 @@ Checking out 5b5d515725ee953366280f4e9986adbae0f9606a
 Warning: radish :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/radish/
-  to /tmp/radish4NNcGF/radish-20250311.841
+  to /tmp/radishaEEeJH/radish-20250311.841
     radish.el -> radish.el
 Created radish-20250311.841.tar containing:
   radish-20250311.841/
   radish-20250311.841/radish-pkg.el
   radish-20250311.841/radish.el
  ✓ Success:
-  2025-04-25T07:37:26+0000  radish-20250311.841.entry
-  2025-04-25T07:37:25+0000  radish-20250311.841.tar
-Built radish in 0.059s, finished at 2025-04-25T07:37:26+0000
+  2025-04-25T21:30:10+0000  radish-20250311.841.entry
+  2025-04-25T21:30:10+0000  radish-20250311.841.tar
+Built radish in 0.305s, finished at 2025-04-25T21:30:10+0000
