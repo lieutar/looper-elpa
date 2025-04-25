@@ -1,0 +1,28 @@
+(lelde .
+       [(20250425 705)
+	((f
+	  (0))
+	 (s
+	  (0))
+	 (dash
+	  (0))
+	 (ppp
+	  (0))
+	 (prinfo
+	  (0))
+	 (stmax
+	  (0))
+	 (elconc
+	  (0))
+	 (tinplate
+	  (0)))
+	"Live Emacs Lisp Development Environment" tar
+	((:url . "https://github.com/lieutar/lelde.el")
+	 (:commit . "6a0e3d28a9d505e448634e9d496d543bc07555e7")
+	 (:revdesc . "6a0e3d28a9d5")
+	 (:keywords "lisp" "programming" "develop")
+	 (:authors
+	  ("lieutar" . "lieutar@gmail.com"))
+	 (:maintainers
+	  ("lieutar" . "lieutar@gmail.com"))
+	 (:maintainer "lieutar" . "lieutar@gmail.com"))])
