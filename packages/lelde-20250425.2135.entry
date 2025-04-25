@@ -1,5 +1,5 @@
 (lelde .
-       [(20250425 736)
+       [(20250425 2135)
 	((f
 	  (0))
 	 (s
@@ -18,8 +18,8 @@
 	  (0)))
 	"Live Emacs Lisp Development Environment" tar
 	((:url . "https://github.com/lieutar/lelde.el")
-	 (:commit . "cb04e2e12a76fa08edce5c8d621a7b812e8c611f")
-	 (:revdesc . "cb04e2e12a76")
+	 (:commit . "e6160f67801769565ed226be9800ab55eb8b85a9")
+	 (:revdesc . "e6160f678017")
 	 (:keywords "lisp" "programming" "develop")
 	 (:authors
 	  ("lieutar" . "lieutar@gmail.com"))
