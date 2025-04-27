@@ -6,13 +6,13 @@ Updating /home/lieutar/work/emacs/looper-elpa/working/prinfo/
 Checking out 568d8bf38ec29350c96134cd603e2796b62c8cd3
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/prinfo/
-  to /tmp/prinfohqQnSx/prinfo-20250410.1341
+  to /tmp/prinfoOScV2C/prinfo-20250410.1341
     prinfo.el -> prinfo.el
 Created prinfo-20250410.1341.tar containing:
   prinfo-20250410.1341/
   prinfo-20250410.1341/prinfo-pkg.el
   prinfo-20250410.1341/prinfo.el
  ✓ Success:
-  2025-04-25T21:36:03+0000  prinfo-20250410.1341.entry
-  2025-04-25T21:36:03+0000  prinfo-20250410.1341.tar
-Built prinfo in 0.047s, finished at 2025-04-25T21:36:03+0000
+  2025-04-27T07:34:53+0000  prinfo-20250410.1341.entry
+  2025-04-27T07:34:53+0000  prinfo-20250410.1341.tar
+Built prinfo in 0.372s, finished at 2025-04-27T07:34:53+0000
