@@ -3,46 +3,46 @@ Fetcher: git
 Source:  file:///home/lieutar/work/emacs/packages/lelde.el
 
 Updating /home/lieutar/work/emacs/looper-elpa/working/lelde/
-Checking out 6e4e3e8256e3d3de5169fa15db6daa150f23cf61
+Checking out 5b0e56a036b70da3484793e320952979c4bc0520
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/lelde/
-  to /tmp/lelde0tIeDg/lelde-20250429.648
+  to /tmp/lelde8IdszM/lelde-20250429.826
     lelde.el -> lelde.el
     rsc => rsc
-Created lelde-20250429.648.tar containing:
-  lelde-20250429.648/
-  lelde-20250429.648/lelde-pkg.el
-  lelde-20250429.648/lelde.el
-  lelde-20250429.648/rsc/
-  lelde-20250429.648/rsc/bootstrap/
-  lelde-20250429.648/rsc/bootstrap/init.sh
-  lelde-20250429.648/rsc/common/
-  lelde-20250429.648/rsc/common/index-header.el
-  lelde-20250429.648/rsc/template/
-  lelde-20250429.648/rsc/template/@@.gitignore
-  lelde-20250429.648/rsc/template/@recipe-dir@/
-  lelde-20250429.648/rsc/template/@recipe-dir@/@index@
-  lelde-20250429.648/rsc/template/@scripts-dir@/
-  lelde-20250429.648/rsc/template/@scripts-dir@/lcask
-  lelde-20250429.648/rsc/template/@scripts-dir@/test
-  lelde-20250429.648/rsc/template/@scripts-dir@/truncate
-  lelde-20250429.648/rsc/template/@src-dir@/
-  lelde-20250429.648/rsc/template/@src-dir@/@index@.src.el
-  lelde-20250429.648/rsc/template/@src-dir@/@index@/
-  lelde-20250429.648/rsc/template/@src-dir@/@index@/META.el
-  lelde-20250429.648/rsc/template/@src-dir@/@index@/core.el
-  lelde-20250429.648/rsc/template/@src-dir@/README.md
-  lelde-20250429.648/rsc/template/@test-scripts-dir@/
-  lelde-20250429.648/rsc/template/@test-scripts-dir@/core.unit.el
-  lelde-20250429.648/rsc/template/@test-scripts-dir@/integration-lint.test.el
-  lelde-20250429.648/rsc/template/Cask
-  lelde-20250429.648/rsc/template/Cask.local@@
-  lelde-20250429.648/rsc/template/Lelde
-  lelde-20250429.648/rsc/template/Makefile
-  lelde-20250429.648/rsc/template/custom.mk
+Created lelde-20250429.826.tar containing:
+  lelde-20250429.826/
+  lelde-20250429.826/lelde-pkg.el
+  lelde-20250429.826/lelde.el
+  lelde-20250429.826/rsc/
+  lelde-20250429.826/rsc/bootstrap/
+  lelde-20250429.826/rsc/bootstrap/init.sh
+  lelde-20250429.826/rsc/common/
+  lelde-20250429.826/rsc/common/index-header.el
+  lelde-20250429.826/rsc/template/
+  lelde-20250429.826/rsc/template/@@.gitignore
+  lelde-20250429.826/rsc/template/@recipe-dir@/
+  lelde-20250429.826/rsc/template/@recipe-dir@/@index@
+  lelde-20250429.826/rsc/template/@scripts-dir@/
+  lelde-20250429.826/rsc/template/@scripts-dir@/lcask
+  lelde-20250429.826/rsc/template/@scripts-dir@/test
+  lelde-20250429.826/rsc/template/@scripts-dir@/truncate
+  lelde-20250429.826/rsc/template/@src-dir@/
+  lelde-20250429.826/rsc/template/@src-dir@/@index@.src.el
+  lelde-20250429.826/rsc/template/@src-dir@/@index@/
+  lelde-20250429.826/rsc/template/@src-dir@/@index@/META.el
+  lelde-20250429.826/rsc/template/@src-dir@/@index@/core.el
+  lelde-20250429.826/rsc/template/@src-dir@/README.md
+  lelde-20250429.826/rsc/template/@test-scripts-dir@/
+  lelde-20250429.826/rsc/template/@test-scripts-dir@/core.unit.el
+  lelde-20250429.826/rsc/template/@test-scripts-dir@/integration-lint.test.el
+  lelde-20250429.826/rsc/template/Cask
+  lelde-20250429.826/rsc/template/Cask.local@@
+  lelde-20250429.826/rsc/template/Lelde
+  lelde-20250429.826/rsc/template/Makefile
+  lelde-20250429.826/rsc/template/custom.mk
  ✓ Success:
-  2025-04-29T03:02:22+0000  lelde-20250429.301.entry
-  2025-04-29T03:02:16+0000  lelde-20250429.301.tar
-  2025-04-29T06:49:08+0000  lelde-20250429.648.entry
+  2025-04-29T06:49:12+0000  lelde-20250429.648.entry
   2025-04-29T06:49:08+0000  lelde-20250429.648.tar
-Built lelde in 1.228s, finished at 2025-04-29T06:49:08+0000
+  2025-04-29T08:26:55+0000  lelde-20250429.826.entry
+  2025-04-29T08:26:55+0000  lelde-20250429.826.tar
+Built lelde in 0.109s, finished at 2025-04-29T08:26:55+0000

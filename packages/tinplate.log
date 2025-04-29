@@ -6,13 +6,13 @@ Updating /home/lieutar/work/emacs/looper-elpa/working/tinplate/
 Checking out 3df1a46054fb1dd2b48d184e81270d0a5a83f3bd
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/tinplate/
-  to /tmp/tinplate2ozZa1/tinplate-20250408.617
+  to /tmp/tinplateHrUbCX/tinplate-20250408.617
     tinplate.el -> tinplate.el
 Created tinplate-20250408.617.tar containing:
   tinplate-20250408.617/
   tinplate-20250408.617/tinplate-pkg.el
   tinplate-20250408.617/tinplate.el
  ✓ Success:
-  2025-04-29T06:49:11+0000  tinplate-20250408.617.entry
-  2025-04-29T06:49:11+0000  tinplate-20250408.617.tar
-Built tinplate in 0.156s, finished at 2025-04-29T06:49:11+0000
+  2025-04-29T08:26:57+0000  tinplate-20250408.617.entry
+  2025-04-29T08:26:57+0000  tinplate-20250408.617.tar
+Built tinplate in 0.057s, finished at 2025-04-29T08:26:57+0000
