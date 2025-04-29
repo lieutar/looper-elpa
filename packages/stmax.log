@@ -6,13 +6,13 @@ Updating /home/lieutar/work/emacs/looper-elpa/working/stmax/
 Checking out c52fa3b7b84e4844c7df6e998b38ec6ec4e321b0
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/stmax/
-  to /tmp/stmaxmysO3f/stmax-20250408.609
+  to /tmp/stmaxMXL6bW/stmax-20250408.609
     stmax.el -> stmax.el
 Created stmax-20250408.609.tar containing:
   stmax-20250408.609/
   stmax-20250408.609/stmax-pkg.el
   stmax-20250408.609/stmax.el
  ✓ Success:
-  2025-04-29T22:21:30+0000  stmax-20250408.609.entry
-  2025-04-29T22:21:30+0000  stmax-20250408.609.tar
-Built stmax in 0.051s, finished at 2025-04-29T22:21:30+0000
+  2025-04-29T22:29:28+0000  stmax-20250408.609.entry
+  2025-04-29T22:29:28+0000  stmax-20250408.609.tar
+Built stmax in 0.054s, finished at 2025-04-29T22:29:28+0000
