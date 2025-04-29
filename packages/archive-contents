@@ -7,7 +7,7 @@
 	   (:keywords "programming" "development" "emacs-lisp")
 	   (:url . "https://github.com/lieutar/elconc.el"))])
  (lelde .
-	[(20250427 734)
+	[(20250429 301)
 	 ((f
 	   (0))
 	  (s
@@ -26,8 +26,8 @@
 	   (0)))
 	 "Live Emacs Lisp Development Environment" tar
 	 ((:url . "https://github.com/lieutar/lelde.el")
-	  (:commit . "eef2e59ded202383a1d52838bb65446eaf21a636")
-	  (:revdesc . "eef2e59ded20")
+	  (:commit . "a17542e61afe06c59bd2df0bcde0672fc1d1eebc")
+	  (:revdesc . "a17542e61afe")
 	  (:keywords "lisp" "programming" "develop")
 	  (:authors
 	   ("lieutar" . "lieutar@gmail.com"))
