@@ -6,7 +6,7 @@ Updating /home/lieutar/work/emacs/looper-elpa/working/lelde/
 Checking out 5b0e56a036b70da3484793e320952979c4bc0520
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/lelde/
-  to /tmp/lelde8IdszM/lelde-20250429.826
+  to /tmp/leldea1d4SV/lelde-20250429.826
     lelde.el -> lelde.el
     rsc => rsc
 Created lelde-20250429.826.tar containing:
@@ -41,8 +41,6 @@ Created lelde-20250429.826.tar containing:
   lelde-20250429.826/rsc/template/Makefile
   lelde-20250429.826/rsc/template/custom.mk
  ✓ Success:
-  2025-04-29T06:49:12+0000  lelde-20250429.648.entry
-  2025-04-29T06:49:08+0000  lelde-20250429.648.tar
-  2025-04-29T08:26:55+0000  lelde-20250429.826.entry
-  2025-04-29T08:26:55+0000  lelde-20250429.826.tar
-Built lelde in 0.109s, finished at 2025-04-29T08:26:55+0000
+  2025-04-29T08:52:47+0000  lelde-20250429.826.entry
+  2025-04-29T08:52:47+0000  lelde-20250429.826.tar
+Built lelde in 0.109s, finished at 2025-04-29T08:52:47+0000
