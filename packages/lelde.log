@@ -3,47 +3,47 @@ Fetcher: git
 Source:  file:///home/lieutar/work/emacs/packages/lelde.el
 
 Updating /home/lieutar/work/emacs/looper-elpa/working/lelde/
-Checking out 81a78e5102f34f2da72c299ebb0ddb16b274fb57
+Checking out 803beb5bd6b3a297fbce3ff82079d6ce8474f434
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/lelde/
-  to /tmp/leldei0eQUg/lelde-20250501.241
+  to /tmp/leldeBZKhtN/lelde-20250501.405
     lelde.el -> lelde.el
     rsc => rsc
-Created lelde-20250501.241.tar containing:
-  lelde-20250501.241/
-  lelde-20250501.241/lelde-pkg.el
-  lelde-20250501.241/lelde.el
-  lelde-20250501.241/rsc/
-  lelde-20250501.241/rsc/bootstrap/
-  lelde-20250501.241/rsc/bootstrap/init.sh
-  lelde-20250501.241/rsc/common/
-  lelde-20250501.241/rsc/common/index-header.el@@
-  lelde-20250501.241/rsc/template/
-  lelde-20250501.241/rsc/template/@@.gitignore
-  lelde-20250501.241/rsc/template/@recipe-dir@/
-  lelde-20250501.241/rsc/template/@recipe-dir@/@index@
-  lelde-20250501.241/rsc/template/@scripts-dir@/
-  lelde-20250501.241/rsc/template/@scripts-dir@/exec.el@@
-  lelde-20250501.241/rsc/template/@scripts-dir@/lcask
-  lelde-20250501.241/rsc/template/@scripts-dir@/test
-  lelde-20250501.241/rsc/template/@scripts-dir@/truncate
-  lelde-20250501.241/rsc/template/@src-dir@/
-  lelde-20250501.241/rsc/template/@src-dir@/@index@.src.el@@
-  lelde-20250501.241/rsc/template/@src-dir@/@index@/
-  lelde-20250501.241/rsc/template/@src-dir@/@index@/META.el@@
-  lelde-20250501.241/rsc/template/@src-dir@/@index@/core.el@@
-  lelde-20250501.241/rsc/template/@src-dir@/README.md
-  lelde-20250501.241/rsc/template/@test-scripts-dir@/
-  lelde-20250501.241/rsc/template/@test-scripts-dir@/core.unit.el@@
-  lelde-20250501.241/rsc/template/@test-scripts-dir@/integration-lint.test.el@@
-  lelde-20250501.241/rsc/template/Cask
-  lelde-20250501.241/rsc/template/Cask.local@@
-  lelde-20250501.241/rsc/template/Lelde
-  lelde-20250501.241/rsc/template/Makefile
-  lelde-20250501.241/rsc/template/custom.mk
+Created lelde-20250501.405.tar containing:
+  lelde-20250501.405/
+  lelde-20250501.405/lelde-pkg.el
+  lelde-20250501.405/lelde.el
+  lelde-20250501.405/rsc/
+  lelde-20250501.405/rsc/bootstrap/
+  lelde-20250501.405/rsc/bootstrap/init.sh
+  lelde-20250501.405/rsc/common/
+  lelde-20250501.405/rsc/common/index-header.el@@
+  lelde-20250501.405/rsc/template/
+  lelde-20250501.405/rsc/template/@@.gitignore
+  lelde-20250501.405/rsc/template/@recipe-dir@/
+  lelde-20250501.405/rsc/template/@recipe-dir@/@index@
+  lelde-20250501.405/rsc/template/@scripts-dir@/
+  lelde-20250501.405/rsc/template/@scripts-dir@/exec.el@@
+  lelde-20250501.405/rsc/template/@scripts-dir@/lcask
+  lelde-20250501.405/rsc/template/@scripts-dir@/test
+  lelde-20250501.405/rsc/template/@scripts-dir@/truncate
+  lelde-20250501.405/rsc/template/@src-dir@/
+  lelde-20250501.405/rsc/template/@src-dir@/@index@.src.el@@
+  lelde-20250501.405/rsc/template/@src-dir@/@index@/
+  lelde-20250501.405/rsc/template/@src-dir@/@index@/META.el@@
+  lelde-20250501.405/rsc/template/@src-dir@/@index@/core.el@@
+  lelde-20250501.405/rsc/template/@src-dir@/README.md
+  lelde-20250501.405/rsc/template/@test-scripts-dir@/
+  lelde-20250501.405/rsc/template/@test-scripts-dir@/core.unit.el@@
+  lelde-20250501.405/rsc/template/@test-scripts-dir@/integration-lint.test.el@@
+  lelde-20250501.405/rsc/template/Cask
+  lelde-20250501.405/rsc/template/Cask.local@@
+  lelde-20250501.405/rsc/template/Lelde
+  lelde-20250501.405/rsc/template/Makefile
+  lelde-20250501.405/rsc/template/custom.mk
  ✓ Success:
-  2025-04-30T03:17:34+0000  lelde-20250430.317.entry
-  2025-04-30T03:17:31+0000  lelde-20250430.317.tar
-  2025-05-01T02:41:57+0000  lelde-20250501.241.entry
+  2025-05-01T02:42:02+0000  lelde-20250501.241.entry
   2025-05-01T02:41:57+0000  lelde-20250501.241.tar
-Built lelde in 1.650s, finished at 2025-05-01T02:41:57+0000
+  2025-05-01T04:06:13+0000  lelde-20250501.405.entry
+  2025-05-01T04:06:13+0000  lelde-20250501.405.tar
+Built lelde in 0.208s, finished at 2025-05-01T04:06:13+0000
