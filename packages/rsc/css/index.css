@@ -1,0 +1,54 @@
+html {
+    min-height: 100%;
+    background-image: linear-gradient(to top, #F0F0E8FF, white);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: bottom;
+    color: #000000CC;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font: 12px;
+}
+
+header {
+    margin: 0;
+    padding: 2px 4px 4px 2px;
+    background: black;
+    color: white;
+}
+
+h1 {
+    margin: 2px 4px;
+    font-size: 1em;
+    font-weight: 900;
+    text-align: center;
+}
+
+article {
+    background-image: linear-gradient(to bottom, black  , rgba(0,0,0,0) 8px );
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 1ex;
+}
+
+section {
+    background: #FFFFFFCC;
+    padding: 1em;
+    border-radius: 1em;
+    box-shadow: 0px 0px 5px #FFFFFFCC;
+}
+
+section > h2 {
+    font-size: 1.25em;
+    text-shadow: 0 0 5px;
+}
+
+pre {
+    padding: 1em;
+    border-radius: 1em;
+    background: #00000009;
+    color: #036C;
+}

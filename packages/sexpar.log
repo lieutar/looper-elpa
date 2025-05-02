@@ -6,13 +6,13 @@ Updating /home/lieutar/work/emacs/looper-elpa/working/sexpar/
 Checking out c8eaf3fee3be0b869dea5e799a1ec1c418b60f10
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/sexpar/
-  to /tmp/sexparEgEThT/sexpar-20250419.409
+  to /tmp/sexparhxmHjZ/sexpar-20250419.409
     sexpar.el -> sexpar.el
 Created sexpar-20250419.409.tar containing:
   sexpar-20250419.409/
   sexpar-20250419.409/sexpar-pkg.el
   sexpar-20250419.409/sexpar.el
  ✓ Success:
-  2025-05-02T03:10:46+0000  sexpar-20250419.409.entry
-  2025-05-02T03:10:46+0000  sexpar-20250419.409.tar
-Built sexpar in 0.386s, finished at 2025-05-02T03:10:46+0000
+  2025-05-02T06:00:51+0000  sexpar-20250419.409.entry
+  2025-05-02T06:00:51+0000  sexpar-20250419.409.tar
+Built sexpar in 0.345s, finished at 2025-05-02T06:00:51+0000

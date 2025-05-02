@@ -1,12 +1,31 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
+    <!-- file:///home/lieutar/work/emacs/looper-elpa/packages/index.html -->
   <head>
-    <title>Looper's elpa</title>
+      <title>Looper's elpa</title>
+      <link rel="stylesheet" href="rsc/css/index.css">
   </head>
   <body>
-    <h1>Looper's elpa</h1>
-    <p>
-        under construction ...
-    </p>
+      <header>
+          <h1>Looper's ELPA</h1>
+      </header>
+      <article>
+          <p>
+              Here's Looper's Emacs Lisp Package Archive.
+          </p>
+          <section>
+              <h2>Usage</h2>
+        <pre>
+ (require 'package)
+ (add-to-list 'package-archives
+   '("looper" . "https://lieutar.github.io/looper-elpa/")
+  t)
+        (package-initialize)
+        </pre>
+          </section>
+          <p>
+              under construction ...
+          </p>
+      </article>
   </body>
 </html>
