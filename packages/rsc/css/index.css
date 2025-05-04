@@ -27,9 +27,9 @@ header {
     margin: 0;
     padding: 0 0 16px 0;
     background:  var(--header-bg);
-    box-shadow:  0 0 8px var(--header-bg);
+    box-shadow:  0 0 4px var(--header-bg);
     color: white;
-    border-radius: 12.5%  0 50% 50% / 40% 0 25% 60%;
+    border-radius: 12.5%  0 30% 70% / 40% 0 25% 60%;
 }
 
 h1 {
@@ -55,6 +55,7 @@ h1 {
      right: 0;
      display: inlone-block;
      transform: rotate(11.25deg);
+     /*text-shadow: 0 0 5px #9CF;*/
 }
 
 .elpa {
