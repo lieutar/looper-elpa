@@ -7,13 +7,13 @@ Checking out f1b8e81424485cc155ce6584a4ef7c4e167af7b9
 Warning: slash-tmp :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /home/lieutar/work/emacs/looper-elpa/working/slash-tmp/
-  to /tmp/slash-tmpN7YiTd/slash-tmp-20250408.505
+  to /tmp/slash-tmp45ejqA/slash-tmp-20250408.505
     slash-tmp.el -> slash-tmp.el
 Created slash-tmp-20250408.505.tar containing:
   slash-tmp-20250408.505/
   slash-tmp-20250408.505/slash-tmp-pkg.el
   slash-tmp-20250408.505/slash-tmp.el
  ✓ Success:
-  2025-05-02T06:55:32+0000  slash-tmp-20250408.505.entry
-  2025-05-02T06:55:32+0000  slash-tmp-20250408.505.tar
-Built slash-tmp in 0.055s, finished at 2025-05-02T06:55:32+0000
+  2025-05-04T03:06:39+0000  slash-tmp-20250408.505.entry
+  2025-05-04T03:06:39+0000  slash-tmp-20250408.505.tar
+Built slash-tmp in 0.414s, finished at 2025-05-04T03:06:39+0000

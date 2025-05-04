@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap');
+
+:root {
+    --header-bg:  #223344
+}
+
 html {
     min-height: 100%;
     background-image: linear-gradient(to top, #F0F0E8FF, white);
@@ -15,23 +21,67 @@ body {
 
 header {
     margin: 0;
-    padding: 2px 4px 4px 2px;
-    background: black;
+    padding: 0 0 16px 0;
+    background-image: linear-gradient(to top, #FFF0, var(--header-bg) 4px );
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     color: white;
 }
 
 h1 {
     margin: 2px 4px;
-    font-size: 1em;
+    font-size: 8em;
+    color: #FFFC;
+    text-shadow: 0 0 5px #FC0;
     font-weight: 900;
     text-align: center;
+    position: relative;
+    display: table;
+    margin: 0px auto;
+    font-family: "Zen Maru Gothic", serif;
+}
+
+ .loopers {
+    font-size: 20%;
+     position: absolute;
+     top: .5ex;
+     right: 0;
+}
+
+.elpa {
+    display: block;
+    margin: -.5ex 0 -.25ex 0;
+}
+
+.elpa > .lisp {
+    position: relative;
+    color: #0000;
+    text-shadow: none;
+    display: inline-block;
+    margin: 0 -.25ex 0 0;
+}
+
+.elpa > .lisp::before {
+    position: absolute;
+    content: "λ";
+    opacity: 1;
+    color: #FFFE;
+    text-shadow: 0 0 5px #F30;
+}
+
+.elpa > .package {
+    text-transform: lowercase;
+}
+
+.elpa > .archive {
+    text-transform: lowercase;
+    font-size: 70%;
+    display: inline-block;
+    margin-left: -.125ex;
 }
 
 article {
-    background-image: linear-gradient(to bottom, black  , rgba(0,0,0,0) 8px );
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    padding: 1ex;
+    padding: 1ex 2em;
 }
 
 section {
