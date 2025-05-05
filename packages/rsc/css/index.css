@@ -48,12 +48,43 @@ h1 {
     font-family: "Zen Maru Gothic", serif;
 }
 
+@media (max-width: 320px) {
+    h1 {
+        font-size: 2em !important;
+    }
+}
+
+@media (max-width: 375px) {
+    h1 {
+        font-size: 3em !important;
+    }
+}
+
+@media (max-width: 414px) {
+    h1 {
+        font-size: 4em !important;
+    }
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 6em !important;
+    }
+}
+
+@media (max-width: 1024px) {
+    h1 {
+        font-size: 8em !important;
+    }
+}
+
+
  .loopers {
     font-size: 20%;
      position: absolute;
      top: 1ex;
      right: 0;
-     display: inlone-block;
+     display: inline-block;
      transform: rotate(11.25deg);
      /*text-shadow: 0 0 5px #9CF;*/
 }
