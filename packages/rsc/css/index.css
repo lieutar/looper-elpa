@@ -23,18 +23,19 @@ body {
 header {
     position: absolute;
     right: 0;
-    width: 50%;
     margin: 0;
-    padding: 0 0 16px 0;
     background:  var(--header-bg);
     box-shadow:  0 0 4px var(--header-bg);
     color: white;
     border-radius: 12.5%  0 30% 70% / 40% 0 25% 60%;
+    display: table;
+    padding: 0 10vw 16px 20vw;
 }
 
 h1 {
     margin: 2px 4px;
-    font-size: 8em;
+    /*font-size: 8em;*/
+    font-size: clamp(1em, 12vw, 8em);
     color: #FFFC;
     text-shadow: 0 0 5px #FC0;
     background: #CCFFFF1C;
@@ -44,40 +45,9 @@ h1 {
     text-align: center;
     position: relative;
     display: table;
-    margin: 0px 20% 0px auto;
     font-family: "Zen Maru Gothic", serif;
+    white-space: nowrap;
 }
-
-@media (max-width: 320px) {
-    h1 {
-        font-size: 2em !important;
-    }
-}
-
-@media (max-width: 375px) {
-    h1 {
-        font-size: 3em !important;
-    }
-}
-
-@media (max-width: 414px) {
-    h1 {
-        font-size: 4em !important;
-    }
-}
-
-@media (max-width: 768px) {
-    h1 {
-        font-size: 6em !important;
-    }
-}
-
-@media (max-width: 1024px) {
-    h1 {
-        font-size: 8em !important;
-    }
-}
-
 
  .loopers {
     font-size: 20%;
@@ -129,7 +99,7 @@ h1 {
 }
 
 article {
-    padding: 3em 2em;
+    padding: 4em 2em;
 }
 
 section {
