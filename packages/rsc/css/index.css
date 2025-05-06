@@ -98,6 +98,30 @@ h1 {
     margin-left: -.125ex;
 }
 
+#github-repos {
+    overflow: hidden;
+    background: url("../img/looper-elpa-github-icon.svg") no-repeat;
+    background-size: 100%;
+    display: block;
+    width: 4vw;
+    height: calc(4vw + 1em);
+    position: absolute;
+    right: 3vw;
+    bottom: .5ic;
+    opacity: 0.75;
+    text-decoration: none;
+    color: #FFFC;
+    padding-top: 4vw;
+    font-size: 1vw;
+    text-align: center;
+    font-family: "Zen Maru Gothic", serif;
+}
+
+#github-repos:hover {
+    opacity: 1;
+}
+
+
 article {
     padding: 4em 2em;
 }
